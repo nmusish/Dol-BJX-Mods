@@ -1,2 +1,106 @@
-[
+[{index: 159,
+
+		name: "moon",
+
+		name_cap: "Moon",
+
+		cn_name_cap: "月的叹咏调",
+
+		variable: "moon",
+
+		integrity_max: 500,
+
+		integrity: 500,
+
+		fabric_strength: 200,
+
+		reveal: 300,
+
+		bustresize: 0,
+
+		word: "a",
+
+		one_piece: 1,
+
+		strap: 0,
+
+		open: 0,
+
+		state_top_base: "chest",
+
+		state_base: "ankles",
+
+		state_top: "chest",
+
+		state: "ankles",
+
+		plural: 0,
+
+		colour: 0,
+
+		colour_options: [],
+
+		colour_sidebar: 0,
+
+		colour_combat: 0,
+
+		exposed_base: 0,
+
+		exposed: 0,
+
+		type: ["normal", "formal", "cool", "holy", "rainproof", "eerie", "event"],
+
+		set: "upper",
+
+		gender: "f",
+
+		femininity: 100,
+
+		warmth: 50,
+
+		cost: 50000,
+
+		description: "灰白的，鹅黄的，船型的月亮的脸，睥睨着盛开的沉寂的花。",
+
+		shop: ["clothing", "forest"],
+
+		accessory: 0,
+
+accessory_integrity_img: 1,
+
+accessory_colour: 0,
+
+accessory_colour_options: [],
+
+accessory_colour_sidebar: 0,
+
+accessory_colour_combat: 0,
+
+sleeve_img: 0,
+
+sleeve_acc_img: 0,
+
+breast_img: 0,
+
+breast_acc_img: 0,
+
+has_collar: 0,
+
+cursed: 0,
+
+location: 0,
+
+iconFile: "moon.png",
+
+accIcon: 0,
+
+mainImage: 1,
+
+notuck: 1,
+
+pregType: 0,
+
+outfitPrimary: {lower: "moon bottom"},
+
+		},
 ]
