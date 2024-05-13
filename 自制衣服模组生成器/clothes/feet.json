@@ -1,2 +1,68 @@
-[
+[{index: 42,
+
+		name: "moonshoes",
+
+		name_cap: "Moonshoes",
+
+		cn_name_cap: "月的叹咏调皮鞋",
+
+		variable: "moonshoes",
+
+		integrity_max: 500,
+
+		integrity: 500,
+
+		fabric_strength: 30,
+
+		reveal: 100,
+
+		word: "a",
+
+		short: 0,
+
+		plural: 1,
+
+		colour: 0,
+
+		colour_options: [],
+
+		colour_sidebar: 0,
+
+		colour_combat: 0,
+
+		type: ["formal", "cool", "heels", "riding"],
+
+		gender: "f",
+
+		femininity: 100,
+
+		warmth: 25,
+
+		cost: 5000,
+
+		description: "服装月的叹咏调配套皮鞋。",
+
+		shop: ["clothing", "forest"],
+
+		accessory: 0,
+
+		accessory_colour: 0,
+
+		accessory_colour_options: [],
+
+		accessory_colour_sidebar: 0,
+
+		accessory_colour_combat: 0,
+
+		cursed: 0,
+
+		location: 0,
+
+		iconFile: "moonshoes.png",
+
+		accIcon: 0,
+
+		mainImage: 1,
+
+		},
 ]
